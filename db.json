@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "img": "link1",
+    "tilte": {
+      "eng": "Title",
+      "rus": "Title",
+      "uzb": "Title"
+    },
+    "description": {
+      "eng": "description",
+      "rus": "description",
+      "uzb": "description"
+    },
+    "price": 1000
+  }
+]
